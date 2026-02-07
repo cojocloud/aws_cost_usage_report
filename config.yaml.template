@@ -1,0 +1,3 @@
+budget_threshold: 100.00
+aws_region: ca-central-1
+alert_threshold_percentage: 80
