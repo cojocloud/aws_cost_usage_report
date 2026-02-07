@@ -35,7 +35,7 @@ htmlcov/
 # OS files
 .DS_Store
 Thumbs.db
-
+.vscode
 # Jupyter notebooks (optional)
 .ipynb_checkpoints/
 
